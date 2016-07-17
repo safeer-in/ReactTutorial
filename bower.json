@@ -1,0 +1,24 @@
+{
+  "name": "react-tutorial",
+  "description": "tutorial",
+  "main": "index.js",
+  "authors": [
+    "Mohammed Safeer A R"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~15.2.1"
+  }
+}
